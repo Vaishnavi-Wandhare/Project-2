@@ -1,2 +1,2 @@
 # Project-2
-Shark Tank India Analysis
+Shark Tank is a reality TV show that follows a unique format where entrepreneurs pitch their business ideas or products to a panel of successful investors ( sharks) in the hope of securing investment. The entrepreneurs present their proposals,negotiate deals,and sometimes face tough questions and scrutiny from the sharks. The show provides insight into the world of business and entrepreneurship, making it both entertaining and educational. From the shark tank data we will find meaningful insight for growing business.
